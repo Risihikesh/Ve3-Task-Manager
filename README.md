@@ -17,7 +17,7 @@
  /tasks/add        Add a new task
  /tasks/:taskId    Edit a task
 
- #npm command
+ # npm command
  At root folder:
 
 npm run dev: Starts both backend and frontend
