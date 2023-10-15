@@ -1,8 +1,11 @@
 # Ve3-Task-Manager
 
 # Backend API
+
  POST     /api/auth/signup  
+ 
  POST     /api/auth/login
+ 
  GET      /api/tasks
  GET      /api/tasks/:taskId
  POST     /api/tasks
